@@ -1,0 +1,14 @@
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\bin\Debug\img-resizer.exe.config
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\bin\Debug\img-resizer.exe
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\bin\Debug\img-resizer.pdb
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.csprojResolveAssemblyReference.cache
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img_resizer.winMain.resources
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img_resizer.Properties.Resources.resources
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.csproj.GenerateResource.Cache
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.csproj.CoreCompileInputs.cache
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.exe
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.pdb
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\bin\Debug\img-resizer.exe.manifest
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\bin\Debug\img-resizer.application
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.exe.manifest
+c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.application
