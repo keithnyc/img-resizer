@@ -54,7 +54,7 @@
             // 
             // btnResize
             // 
-            this.btnResize.Location = new System.Drawing.Point(368, 396);
+            this.btnResize.Location = new System.Drawing.Point(368, 391);
             this.btnResize.Name = "btnResize";
             this.btnResize.Size = new System.Drawing.Size(75, 23);
             this.btnResize.TabIndex = 0;
@@ -69,7 +69,7 @@
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(431, 92);
+            this.groupBox1.Size = new System.Drawing.Size(439, 92);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             // 
@@ -86,12 +86,13 @@
             // 
             this.txtPath.Location = new System.Drawing.Point(9, 32);
             this.txtPath.Name = "txtPath";
-            this.txtPath.Size = new System.Drawing.Size(386, 20);
+            this.txtPath.ReadOnly = true;
+            this.txtPath.Size = new System.Drawing.Size(422, 20);
             this.txtPath.TabIndex = 1;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(320, 63);
+            this.button1.Location = new System.Drawing.Point(356, 58);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 2;
@@ -139,7 +140,7 @@
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Location = new System.Drawing.Point(238, 129);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(205, 228);
+            this.groupBox2.Size = new System.Drawing.Size(213, 228);
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Resize Options";

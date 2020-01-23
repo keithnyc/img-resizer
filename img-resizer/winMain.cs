@@ -91,7 +91,9 @@ namespace img_resizer
 
         private void button1_Click(object sender, EventArgs e)
         {
-            dlgBrowseDir.ShowDialog();
+            if (dlgBrowseDir.ShowDialog() == DialogResult.None)
+                return;
+
             txtPath.Text = dlgBrowseDir.SelectedPath;
             list_files();
         }
