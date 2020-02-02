@@ -12,3 +12,17 @@ c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\bin
 c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\bin\Debug\img-resizer.application
 c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.exe.manifest
 c:\users\kwatt\documents\visual studio 2017\Projects\img-resizer\img-resizer\obj\Debug\img-resizer.application
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\bin\Debug\img-resizer.exe.config
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\bin\Debug\img-resizer.exe.manifest
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\bin\Debug\img-resizer.application
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\bin\Debug\img-resizer.exe
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\bin\Debug\img-resizer.pdb
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img_resizer.winMain.resources
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img_resizer.Properties.Resources.resources
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img-resizer.csproj.GenerateResource.cache
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img-resizer.csproj.CoreCompileInputs.cache
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img-resizer.exe.manifest
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img-resizer.application
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img-resizer.exe
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img-resizer.pdb
+E:\Drive\projects\img-resizer\img-resizer\img-resizer\obj\Debug\img-resizer.csprojAssemblyReference.cache
